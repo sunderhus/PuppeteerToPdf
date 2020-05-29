@@ -20,3 +20,10 @@
 >
 > This project, will be upgraded with time, stay tune.
 
+
+> [!TIP]
+> Links úteis / Usefull links
+>
+>[Puppeteer DOCS](https://pptr.dev/#?product=Puppeteer&version=v3.1.0&show=outline)
+>
+>[Generate PDFs](https://www.youtube.com/watch?v=9VgghGKx_1c)
